@@ -1,0 +1,3 @@
+#summary a clone of CoverFlow
+
+PictureFlow is a Qt widget to show images with animation effect, like in Apple's Coverflow (found in iTunes, iPhone, and iPod).
