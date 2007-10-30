@@ -1,8 +1,3 @@
 #summary a clone of CoverFlow
 
 PictureFlow is a Qt widget to show images with animation effect, like in Apple's [http://en.wikipedia.org/wiki/CoverFlow Cover Flow] (found among others in iTunes, Finder, iPhone, and iPod).
-
-Features:
- * lightweight
- * fast
- * no floating-point operation
