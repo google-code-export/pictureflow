@@ -1,3 +1,5 @@
 #summary a clone of CoverFlow
 
 PictureFlow is a Qt widget to show images with animation effect, like in Apple's [http://en.wikipedia.org/wiki/CoverFlow Cover Flow] (found among others in iTunes, Finder, iPhone, and iPod).
+
+There is also a port of PictureFlow to [http://www.rockbox.org Rockbox]. It is reported to run on various mediaplayers like the iPod 5.5G and Gigabeat F. From now on, it is in the official [http://svn.rockbox.org/viewvc.cgi/trunk/apps/plugins/pictureflow.c?view=log Rockbox SVN].
