@@ -1,4 +1,4 @@
-#labels faq
+#labels Featured,faq
 =Frequently Asked Questions=
 
 *Help! !PictureFlow does not run on my device!*
