@@ -23,7 +23,7 @@ See the previous question. It does really depend on your platform/system. You ha
 
 *How can I install !PictureFlow on Windows? You don't provide any installer!*
 
-You have to build it by yourself. Note that the intended audience of PictureFlow is _developers_, not _end-users_. It is just a normal Qt widget that needs to be used in a real application.
+You have to build it by yourself. Note that the intended audience of !PictureFlow is _developers_, not _end-users_. It is just a normal Qt widget that needs to be used in a real application.
 
 *Does !PictureFlow run on Windows Mobile 5/6?*
 
