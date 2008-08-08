@@ -20,3 +20,11 @@ Pass the path/directory to the executable. Otherwise, PictureFlow will try to se
 *Where to place the pictures so that !PictureFlow can find it? Is it /Program Files/pictureflow or /My Documents/pictureflow?*
 
 See the previous question. It does really depend on your platform/system. You have to figure it by yourself.
+
+*How can I install !PictureFlow on Windows? You don't provide any installer!*
+
+You have to build it by yourself. Note that the intended audience of PictureFlow is _developers_, not _end-users_. It is just a normal Qt widget that needs to be used in a real application.
+
+*Does PictureFlow run on Windows Mobile 5/6?*
+
+Yes. See [http://labs.trolltech.com/blogs/2007/11/02/pictureflow-on-windows-mobile/ the proof video]. Note that you need to compile and test the program by yourself to try it out.
