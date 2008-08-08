@@ -11,7 +11,7 @@ Please post your question to the [http://groups.google.com/group/pictureflow mai
 
 *Can I use !PictureFlow with Python?*
 
-The current stable version (0.1) does not offer Python support yet, expect this in the next version (0.2). Alternatively, you can use PyQt and SIP and generate the bindings by yourself. Please refer to PyQt and SIP documentations for details.
+The current stable version (0.1) does not offer Python support yet, expect this in the next version (0.2). Alternatively, you can use [http://wiki.python.org/moin/PyQt PyQt] and [http://www.riverbankcomputing.com/software/sip/intro SIP] and generate the bindings by yourself. Please refer to !PyQt and SIP documentations for details.
 
 *Why can't !PictureFlow find my pictures?*
 
@@ -19,7 +19,7 @@ Pass the path/directory to the executable. Otherwise, !PictureFlow will try to s
 
 *Where to place the pictures so that !PictureFlow can find it? Is it /Program Files/pictureflow or /My Documents/pictureflow?*
 
-See the previous question. It does really depend on your platform/system. You have to figure it by yourself.
+See the previous question. It does really depend on your platform/system and how you compile !PictureFlow. You have to figure it out by yourself.
 
 *How can I install !PictureFlow on Windows? You don't provide any installer!*
 
