@@ -1,0 +1,24 @@
+#labels faq
+#Frequently Asked Questions
+
+*Help! PictureFlow does not run on my device!*
+
+You provide too little information. Please check [http://www.catb.org/~esr/faqs/smart-questions.html How To Ask Questions The Smart Way].
+
+*I have problems building PictureFlow. Can you help me?*
+
+Please post your question to the [http://groups.google.com/group/pictureflow mailing-list].
+
+*Can I use PictureFlow with Python?*
+
+The current stable version (0.1) does not offer Python support yet, expect this in the next version (0.2). Alternatively, you can use PyQt and SIP and generate the bindings by yourself. Please refer to PyQt and SIP documentations for details.
+
+*Why can't PictureFlow find my pictures?*
+
+Pass the path/directory to the executable. Otherwise, PictureFlow will try to search the files in the current directory.
+
+*Where to place the pictures so that PictureFlow can find it? Is it /Program Files/pictureflow or /My Documents/pictureflow?*
+
+See the previous question. It does really depend on your platform/system. You have to figure it by yourself.
+
+
