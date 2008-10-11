@@ -13,6 +13,10 @@ Please post your question to the [http://groups.google.com/group/pictureflow mai
 
 The current stable version (0.1) does not offer Python support yet, expect this in the next version (0.2). Alternatively, you can use [http://wiki.python.org/moin/PyQt PyQt] and [http://www.riverbankcomputing.com/software/sip/intro SIP] and generate the bindings by yourself. Please refer to !PyQt and SIP documentations for details.
 
+*Why does PictureFlow consume a lot of memory?*
+
+Because you do not implement on-demand or lazy loading. See [http://code.google.com/p/photoflow/ PhotoFlow] on how to do that.
+
 *Why can't !PictureFlow find my pictures?*
 
 Pass the path/directory to the executable. Otherwise, !PictureFlow will try to search the files in the current directory.
